@@ -232,7 +232,7 @@ LED4 OFF
 
 ##Demo video
 
-https://drive.google.com/file/d/15iQQXlbIbQslru1QIPL0FEx4ntBPUvnE/view?usp=drivesdk
+https://drive.google.com/file/d/1Bnn-OquIF3KV9B8m3jN2VC8hOZtkmOaJ/view?usp=drivesdk
 
 ## Applications
 
@@ -328,7 +328,7 @@ https://drive.google.com/file/d/15iQQXlbIbQslru1QIPL0FEx4ntBPUvnE/view?usp=drive
 
 ## Demo Video
 
-The demonstration video shows:
+https://drive.google.com/file/d/1Bnn-OquIF3KV9B8m3jN2VC8hOZtkmOaJ/view?usp=drivesdk
 
 * Complete hardware setup
 * RF transmitter operation
